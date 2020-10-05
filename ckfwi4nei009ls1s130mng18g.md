@@ -1,6 +1,6 @@
 ## Basics of Engineering Drawing by Zahid Ahmed Siddiqui full book pdf format.
 
- [Click Here]((https://firebasestorage.googleapis.com/v0/b/encoded-net-131108.appspot.com/o/Basics%20of%20Engineering%20Drawing%20by%20Zahid%20Ahmed%20Siddiqui%20and%20Dr.%20Ashraf%20(2nd%20Edition).pdf?alt=media&token=eb9503b5-b976-417d-9428-bf6e8360b70b)  to download the book.
+ [Click Here](https://firebasestorage.googleapis.com/v0/b/encoded-net-131108.appspot.com/o/Basics%20of%20Engineering%20Drawing%20by%20Zahid%20Ahmed%20Siddiqui%20and%20Dr.%20Ashraf%20(2nd%20Edition).pdfalt=media&token=eb9503b5-b976-417d-9428-bf6e8360b70b)  to download the book.
 
 Introduction 
 One of the best ways to communicate one’s ideas is through some form of picture or drawing. This is especially true for the engineer. The purpose of this guide is to give you the basics of engineering sketching and drawing.
