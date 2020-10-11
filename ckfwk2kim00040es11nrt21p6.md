@@ -111,3 +111,4 @@ For hosting web applications, Netlify has become my favorite platform. It is fas
 Heroku is my go-to platform when I need to host a Node.js based backend. I’d recommend Heroku if you want to spin easily up a microservice and have it deployed in a matter of minutes
 Firebase is an interesting platform which I have yet to work with on larger projects. It’s a good choice for getting started, especially if you’re working on mobile apps for Android and iOS.
 Azure and AWS are reasonable choices if you work either in a huge project or if you need the vast amount of features and products which both Azure and AWS offer. Both Azure and AWS also fare better when IT security is highly relevant for you (e.g. for banks) since they have higher security standards than younger competitors like Netlify.
+<script data-ad-client="ca-pub-2008072332362414" async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
